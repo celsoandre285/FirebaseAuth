@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919821066965",
+    "firebase_url": "https://loginfirebase-b79de.firebaseio.com",
+    "project_id": "loginfirebase-b79de",
+    "storage_bucket": "loginfirebase-b79de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919821066965:android:29430a3e5ed72dc6",
+        "android_client_info": {
+          "package_name": "firebaseapp.cursoandroid.com.br.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919821066965-b3afb0muo4jeh3469ug5unva0aulsqaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7DWuzDVwE4i9d8GYJiKCg4BcZM1XtG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
